@@ -1,6 +1,6 @@
-**Data Cleaning and Database Insertion Pipeline**
+**Data Cleaning and Data Ingestion**
 
-This Python script demonstrates a data cleaning and database insertion pipeline. It processes data from a CSV file, applies data cleaning steps, and inserts the processed data into a PostgreSQL database. The pipeline incorporates batch processing and functional programming principles to efficiently handle large datasets.
+This Python script demonstrates how to effectively processes data from a large CSV file, applies data cleaning steps, and inserts the processed data into a PostgreSQL database. The pipeline incorporates batch processing and functional programming principles to efficiently handle large datasets.
 
 **Key Components:**
 
@@ -41,4 +41,4 @@ The provided code offers several benefits in data engineering projects:
 
 6. **Maintainable Code:** The script follows functional programming principles, promoting clean and maintainable code that can be easily extended or modified for specific data engineering use cases.
 
-This data cleaning and database insertion pipeline offers a robust and efficient solution for processing, cleaning, and storing data in a PostgreSQL database. It proves to be a valuable tool in data engineering projects dealing with large datasets, ensuring efficient and effective data management.
+This example offers a robust and efficient solution for processing, cleaning, and storing data in a PostgreSQL database. It proves to be a valuable tool in data engineering projects dealing with large datasets, ensuring efficient and effective data management.
